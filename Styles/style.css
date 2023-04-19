@@ -1,0 +1,38 @@
+body{
+    background-color:indianred;
+}
+header{
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+}
+#function{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+ul{
+    justify-self: center;
+}
+button{
+    border-radius: 50px;
+    padding: 15px;
+}
+li{
+    text-align: center;
+    margin-top: 25%;
+}
+img{
+    width: 175px;
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+}
