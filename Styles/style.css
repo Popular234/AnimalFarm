@@ -36,3 +36,22 @@ img{
     margin: auto;
     margin-top: 2%;
 }
+label{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#title{
+    padding-bottom: 10px;
+    display: block;
+    margin: auto;
+}
+#info{
+    padding-right: 150px;
+    display: block;
+    margin: auto;
+}
+#button{
+    display: block;
+    margin: auto;
+}
